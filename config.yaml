@@ -1,0 +1,18 @@
+URL: https://vCloud.url.com
+user: user
+pass: password
+vorg: vOrg
+vapp: vApp_elastic_test
+network: Projectes External General
+increase_percentage: 50
+decrease_percentage: 20
+min_compute_nodes: 1
+max_compute_nodes: 4
+template_name: Plantilla Linux v19
+compute_nodes_name: elastic
+#Edge Gateway config
+edge_name: Projectes External General
+edge_network: external_test_DMZ
+public_ip: 1.1.1.1
+private_port: 80
+starting_public_port: 8080
